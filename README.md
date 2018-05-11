@@ -11,4 +11,4 @@
         <module>mainclass</module>
     </modules>
    
-А так же имеется зависимость от проекта https://github.com/avryabov/jsongenerator
+А также имеется зависимость от проекта https://github.com/avryabov/jsongenerator.
